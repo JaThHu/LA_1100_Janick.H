@@ -14,7 +14,7 @@ Gruppe: Janick Hurschler
 
 ### 1.1 Ihr Projekt
 
-Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Programm dir sagt ob sie richtig oder falsch war.
+Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Programm dir sagt, ob sie richtig oder falsch war.
 
 ### 1.2 User Stories
 
@@ -23,9 +23,9 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 1    |       muss          |   Funktionale Anforderung   | Als ein Spieler möchte ich eine Zahl raten, damit ich die richtige Zahl treffe. |
 | 2  |        muss         |   Funktionale Anforderung   | Als Computer möchte ich eine Zufallszahl generieren, die der Spieler erraten muss.                                    |
 | 3    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, ob seine eingegebene Zahl zu gross oder zu klein ist, damit er näher an die Zahl heran kommt. |
-| 4    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, wieviele versuche er gebraucht hat, damit er weiss, wie gut er war. |
+| 4    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, wie viele versuche er gebraucht hat, damit er weiss, wie gut er war. |
 | 5   |       muss          |   Funktionale Anforderung   | Als Computer möchte ich Fehleingaben erkennen können, damit ich dem Spieler den Fehler anzeigen kann. |
-| 6   |       kann         |   Qualitätsanforderung    | Als Computer will ich dem Spieler die möglichkeit geben, das Spiel neu zu starten, damit er nochmal spielen kann. |
+| 6   |       kann         |   Qualitätsanforderung    | Als Computer will ich dem Spieler die Möglichkeit geben, das Spiel neu zu starten, damit er nochmal spielen kann. |
 
 
 
@@ -34,11 +34,11 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Eine Zahl ins Eingabefeld schreiben           |    17     |        Richtige Zahl/Zu klein/zu gross           |
-| 2.1  |   Nachschauen ob der Computer eine Zufallszahl generiert         |     Start    |        Zufallszahl (nicht sichtbar)           |
+| 2.1  |   Nachschauen, ob der Computer eine Zufallszahl generiert         |     Start    |        Zufallszahl (nicht sichtbar)           |
 | 3.1  |   Eine Zahl eingeben           |    17     |        Zu klein/zu gross           |
 | 4.1  |   richtige Zahl erraten        |   richtige zahl    |        Richtige Zahl/ du hast x versuche gebraucht           |
-| 5.1  |   Fehleingabe machen       |    Bameninhong     |        schreiben sie hier bitte nur Zahlen von 0 bis 100           |
-| 6.1  |  Auf "Spiel neustarten" klicken          |    spiel neustarten    |        Spiel fängt nochmal von vorne an          |
+| 5.1  |   Fehleingabe machen       |    Bameninhong     |        schreiben Sie hier bitte nur Zahlen von 0 bis 100           |
+| 6.1  |  Auf "Spiel neu starten" klicken          |    spiel neu starten    |        Spiel fängt nochmal von vorne an          |
 
 
 ### 1.4 Diagramme
@@ -59,7 +59,7 @@ Total:  6 Lektionen
 
 ## 3 Entscheiden
 
-Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch keine Erfahrung im programmieren habe. Vielleicht muss ich bei den US im Verlauf des Projektes noch etwas hinzufügen.
+Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch keine Erfahrung im Programmieren habe. Vielleicht muss ich bei den US im Verlauf des Projektes noch etwas hinzufügen.
 
 ## 4 Realisieren
 
