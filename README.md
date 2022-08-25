@@ -48,9 +48,9 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       60 min        |
-| 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        60 min       |
-| 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        60 min       |
+| 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       90 min        |
+| 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        90 min       |
+| 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        90 min       |
 
 Total: 
 
