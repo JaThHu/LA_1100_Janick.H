@@ -36,7 +36,8 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![PAP zum Projekt](<img width="586" alt="PAP_zahlenratspiel_screenshot" src="https://user-images.githubusercontent.com/111045598/186598569-65ff3b8f-d9da-4c9c-89b1-3adc6ab8946f.png">
+)
 
 ## 2 Planen
 
