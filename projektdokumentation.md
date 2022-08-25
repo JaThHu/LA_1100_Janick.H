@@ -59,7 +59,7 @@ Total:  6 Lektionen
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch keine Erfahrung im programmieren habe. Vielleicht muss ich bei den US im Verlauf des Projektes noch etwas hinzufügen.
 
 ## 4 Realisieren
 
