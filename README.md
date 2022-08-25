@@ -21,8 +21,11 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |       muss          |   Funktionale Anforderung   | Als ein Spieler möchte ich eine Zahl raten, damit ich die richtige Zahl treffe. |
-| 2  |        muss         |   Funktionale Anforderung   | Als Computer möchte ich eine Zufallszahl generieren, die der Spieler erraten muss.                                   |
-
+| 2  |        muss         |   Funktionale Anforderung   | Als Computer möchte ich eine Zufallszahl generieren, die der Spieler erraten muss.                                    |
+| 3    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, ob seine eingegebene Zahl zu gross oder zu klein ist, damit er näher an die Zahl heran kommt. |
+| 4    |       muss          |   Qualitätsanforderung   | Als Computer möche ich dem Spieler asugeben, wieviele versuche er gebraucht hat, damit er weiss, wie gut er war. |
+| 5   |       muss          |   Funktionale Anforderung   | Als Computer möchte ich Fehleingaben erkennen können, damit ich dem Spieler den Fehler anzeigen kann. |
+| 6   |       kann         |   Qualitätsanforderung    | Als Computer will ich dem Spieler die möglichkeit geben, das Spiel neu zu starten, damit er nochmal spielen kann. |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
