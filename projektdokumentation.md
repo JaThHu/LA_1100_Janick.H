@@ -23,21 +23,23 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 1    |       muss          |   Funktionale Anforderung   | Als ein Spieler möchte ich eine Zahl raten, damit ich die richtige Zahl treffe. |
 | 2  |        muss         |   Funktionale Anforderung   | Als Computer möchte ich eine Zufallszahl generieren, die der Spieler erraten muss.                                    |
 | 3    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, ob seine eingegebene Zahl zu gross oder zu klein ist, damit er näher an die Zahl heran kommt. |
-| 4    |       muss          |   Qualitätsanforderung   | Als Computer möche ich dem Spieler asugeben, wieviele versuche er gebraucht hat, damit er weiss, wie gut er war. |
+| 4    |       muss          |   Qualitätsanforderung   | Als Computer möchte ich dem Spieler ausgeben, wieviele versuche er gebraucht hat, damit er weiss, wie gut er war. |
 | 5   |       muss          |   Funktionale Anforderung   | Als Computer möchte ich Fehleingaben erkennen können, damit ich dem Spieler den Fehler anzeigen kann. |
 | 6   |       kann         |   Qualitätsanforderung    | Als Computer will ich dem Spieler die möglichkeit geben, das Spiel neu zu starten, damit er nochmal spielen kann. |
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Eine Zahl ins Eingabefeld schreiben           |    17     |        Richtige Zahl/Zu klein/zu gross           |
+| 2.1  |   Nachschauen ob der Computer eine Zufallszahl generiert         |     Start    |        Zufallszahl (nicht sichtbar)           |
+| 3.1  |   Eine Zahl eingeben           |    17     |        Zu klein/zu gross           |
+| 4.1  |   richtige Zahl erraten        |   richtige zahl    |        Richtige Zahl/ du hast x versuche gebraucht           |
+| 5.1  |   Fehleingabe machen       |    Bameninhong     |        schreiben sie hier bitte nur Zahlen von 0 bis 100           |
+| 6.1  |  Auf "Spiel neustarten" klicken          |    spiel neustarten    |        Spiel fängt nochmal von vorne an          |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -52,11 +54,8 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        90 min       |
 | 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        90 min       |
 
-Total: 
+Total:  6 Lektionen
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
