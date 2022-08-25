@@ -26,6 +26,8 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 4    |       muss          |   Qualitätsanforderung   | Als Computer möche ich dem Spieler asugeben, wieviele versuche er gebraucht hat, damit er weiss, wie gut er war. |
 | 5   |       muss          |   Funktionale Anforderung   | Als Computer möchte ich Fehleingaben erkennen können, damit ich dem Spieler den Fehler anzeigen kann. |
 | 6   |       kann         |   Qualitätsanforderung    | Als Computer will ich dem Spieler die möglichkeit geben, das Spiel neu zu starten, damit er nochmal spielen kann. |
+
+
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
@@ -46,9 +48,9 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       60 min        |
+| 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        60 min       |
+| 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        60 min       |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
