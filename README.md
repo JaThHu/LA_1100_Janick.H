@@ -51,6 +51,7 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       60 min        |
 | 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        60 min       |
 | 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        60 min       |
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
