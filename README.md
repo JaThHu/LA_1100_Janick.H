@@ -36,8 +36,8 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 
 ### 1.4 Diagramme
 
-![PAP zum Projekt](<img width="586" alt="PAP_zahlenratspiel_screenshot" src="https://user-images.githubusercontent.com/111045598/186598569-65ff3b8f-d9da-4c9c-89b1-3adc6ab8946f.png">
-)
+<img width="586" alt="PAP_zahlenratspiel_screenshot" src="https://user-images.githubusercontent.com/111045598/186599281-890138bf-2e16-4be0-bebd-111f3c42f37d.png">
+
 
 ## 2 Planen
 
