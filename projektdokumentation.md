@@ -65,10 +65,10 @@ Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch k
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |  01.09.2022     |     Janick      |       90 min        |      ca   75 min          |
+| 3.A  |    01.09.2022   |     Janick      |       90 min        |        ca  90 min         |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
