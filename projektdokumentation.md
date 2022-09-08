@@ -6,9 +6,9 @@ Gruppe: Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |                          |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 08.09.2022      | 0.0.1   |        Ich habe heute die rstlichen 3 userstorys bearbeitet und somit die Grundanforderungen erledigt                |
+|       |    |                                                              |
+|       |    |                                                              |
 
 ## 1 Informieren
 
@@ -55,7 +55,7 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        90 min       |
 | 4.A  |    15.09.2022   |      Janick     |      "goto" zu Schleifen umschreiben        |        45 min       |
 | 5.A  |    15.09.2022   |      Janick     |      Timer einarbeiten        |       2 mal 45 min       |
-| 3.A  |    15.09.2022   |      Janick     |      Easteregg überlegen und umsetzen        |        2 mal 45 min       |
+| 6.A  |    15.09.2022   |      Janick     |      Easteregg überlegen und umsetzen        |        2 mal 45 min       |
 Total:  6 Lektionen
 
 
