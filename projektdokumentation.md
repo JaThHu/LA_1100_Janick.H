@@ -6,7 +6,7 @@ Gruppe: Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |                          |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -53,7 +53,9 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 | 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       90 min        |
 | 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        90 min       |
 | 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        90 min       |
-
+| 4.A  |    15.09.2022   |      Janick     |      "goto" zu Schleifen umschreiben        |        45 min       |
+| 5.A  |    15.09.2022   |      Janick     |      Timer einarbeiten        |       2 mal 45 min       |
+| 3.A  |    15.09.2022   |      Janick     |      Easteregg überlegen und umsetzen        |        2 mal 45 min       |
 Total:  6 Lektionen
 
 
@@ -67,7 +69,9 @@ Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch k
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  01.09.2022     |     Janick      |       90 min        |      ca   75 min          |
 | 3.A  |    01.09.2022   |     Janick      |       90 min        |        ca  90 min         |
-
+| 2.A  |    08.09.2022   |     Janick      |       90 min        |        ca  90 min         |
+| 5.A  |    08.09.2022   |     Janick      |       90 min        |        ca  90 min         |
+| 6.A  |    08.09.2022   |     Janick      |       90 min        |        ca  90 min         |
 
 
 ## 5 Kontrollieren
