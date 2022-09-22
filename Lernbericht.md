@@ -21,20 +21,21 @@ Diese bewirkt in meinem Code, das alles, was in der Schleife geschrieben ist, so
 muss der Spieler eine Falsche eingabe machen. In diesem Code wäre das: Der Spieler gibt anstatt eine Zahl, einen Buchstaben ein. Dann würde es einen Absturz des Programmes
 geben. Um das zu verhindern, schrieb ich ein "catch", der den Fehler abfängt und und dem Spieler zurückgibt, dass er bitte eine Zahl eingeben soll.
 
-[Schleife aus meinem Code]<img width="612" alt="2022-09-22" src="https://user-images.githubusercontent.com/111045598/191694447-996302cc-95a6-424c-abff-853e4857c248.png">
+<img width="612" alt="2022-09-22" src="https://user-images.githubusercontent.com/111045598/191694447-996302cc-95a6-424c-abff-853e4857c248.png">
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![image](https://user-images.githubusercontent.com/111045598/191702388-d62639e8-c515-4b48-b0af-1ec96b1c4c4e.png)
+
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der Text zeigt wie ich auf die Schleife gekommen bin. Das Bild zeigt, wie sie im Code aussieht. 
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich wusste sehr schnell wie ich das Programm schreiben muss, da ich ein PAP erstellt habe und dieses als "Vorlage" verwenden konnte.
 
-👎 und etwas, was nicht gut lief.
+Ich bin teilweise sehr von den Arbeitspaketen abgeschweift und habe diese auch nicht immer gleich aktualisiert oder eingetragen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich mache mir beim nächsten Projekt eine Benachrichtigung auf dem Handy oder Laptop, die mich gegen ende der Arbeitszeit fragt, ob ich im Github alles suaber ausgefüllt habe. Zusätzlich halte ich mir immer meine Arbeitspakete auf dem Desktop offen, d
+sodass ich den überblick behalte und sie nicht vergesse.
