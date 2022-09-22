@@ -21,7 +21,7 @@ Diese bewirkt in meinem Code, das alles, was in der Schleife geschrieben ist, so
 muss der Spieler eine Falsche eingabe machen. In diesem Code wäre das: Der Spieler gibt anstatt eine Zahl, einen Buchstaben ein. Dann würde es einen Absturz des Programmes
 geben. Um das zu verhindern, schrieb ich ein "catch", der den Fehler abfängt und und dem Spieler zurückgibt, dass er bitte eine Zahl eingeben soll.
 
-![Schleife aus meinem Code]<img width="612" alt="2022-09-22" src="https://user-images.githubusercontent.com/111045598/191694447-996302cc-95a6-424c-abff-853e4857c248.png">
+[Schleife aus meinem Code]<img width="612" alt="2022-09-22" src="https://user-images.githubusercontent.com/111045598/191694447-996302cc-95a6-424c-abff-853e4857c248.png">
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
