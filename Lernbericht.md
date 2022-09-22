@@ -29,7 +29,7 @@ geben. Um das zu verhindern, schrieb ich ein "catch", der den Fehler abfängt un
 
 ## Verifikation
 
-Der Text zeigt wie ich auf die Schleife gekommen bin. Das Bild zeigt, wie sie im Code aussieht. 
+Der Text zeigt wie ich auf die Schleife gekommen bin. Das Bild zeigt, wie sie im Code aussieht. Und das GIF ziegt, wie es funktioniert, wenn der Spieler das Programm spielt.
 
 # Reflexion zum Arbeitsprozess
 
