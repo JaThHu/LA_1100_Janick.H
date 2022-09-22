@@ -6,9 +6,10 @@ Gruppe: Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 15.09.2022      | 0.0.3   |        Ich habe heute die restlichen 3 userstorys bearbeitet und somit die Grundanforderungen erledigt                |
-|  08.09.2022     |  0.0.2  |             Ich habe heute die ersten 2 Userstories verbessert und US 3 gemacht                                               |
-|  1.09.2022     |  0.0.1  |          Ich habe mich ins Programm eingefühlt. Und ich habe heute die ersten 2 Userstories erledigt                                                   |
+| 22.09.2022      | 1.0.0   |      Ich habe alle Testprotokolle durchgeführt und kann somit mein Programm erfolgreich abschliessen.              |
+| 15.09.2022      | 0.0.3   |        Ich habe heute die restlichen 3 userstorys bearbeitet und somit die Grundanforderungen erledigt.                |
+|  08.09.2022     |  0.0.2  |             Ich habe heute die ersten 2 Userstories verbessert und US 3 gemacht.                                               |
+|  1.09.2022     |  0.0.1  |          Ich habe mich ins Programm eingefühlt. Und ich habe heute die ersten 2 Userstories erledigt.                                                  |
 
 ## 1 Informieren
 
