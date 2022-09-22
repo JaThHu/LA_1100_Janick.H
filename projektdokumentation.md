@@ -6,9 +6,9 @@ Gruppe: Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 08.09.2022      | 0.0.1   |        Ich habe heute die rstlichen 3 userstorys bearbeitet und somit die Grundanforderungen erledigt                |
-|       |    |                                                              |
-|       |    |                                                              |
+| 15.09.2022      | 0.0.3   |        Ich habe heute die restlichen 3 userstorys bearbeitet und somit die Grundanforderungen erledigt                |
+|  08.09.2022     |  0.0.2  |             Ich habe heute die ersten 2 Userstories verbessert und US 3 gemacht                                               |
+|  1.09.2022     |  0.0.1  |          Ich habe mich ins Programm eingefühlt. Und ich habe heute die ersten 2 Userstories erledigt                                                   |
 
 ## 1 Informieren
 
@@ -50,12 +50,12 @@ Eine Applikation in der Konsole, bei der man eine Zahl raten muss und das Progra
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   01.09.2022    |     Janick      |      US-1, 2        |       90 min        |
-| 2.A  |    01.09.2022   |      Janick     |      US-3, 5        |        90 min       |
-| 3.A  |    01.09.2022   |      Janick     |      US-4, 6        |        90 min       |
+| 1.A  |   01.09.2022    |     Janick      |      Eingabefeld für Spieler erstellen. Und alles beschriftet.       |       90 min        |
+| 2.A  |    01.09.2022   |      Janick     |      Zufallszahl generieren und in Variable packen.        |        90 min       |
+| 3.A  |    01.09.2022   |      Janick     |      Programmiert dass, wenn die eratene Zahl > Zufallszahl ist, dass das Programm ausgibt. Das gleiche mit <.       |        90 min       |
 | 4.A  |    15.09.2022   |      Janick     |      "goto" zu Schleifen umschreiben        |        45 min       |
-| 5.A  |    15.09.2022   |      Janick     |      Timer einarbeiten        |       2 mal 45 min       |
-| 6.A  |    15.09.2022   |      Janick     |      Easteregg überlegen und umsetzen        |        2 mal 45 min       |
+| 5.A  |    15.09.2022   |      Janick     |     try-catch erstellt um Fehleingaben zu erkennen.        |       2 mal 45 min       |
+| 6.A  |    15.09.2022   |      Janick     |      Eine Schleife erstellen, wo der Spieler auch abgefragt wird, ob er nochmal Spielen will.        |        2 mal 45 min       |
 Total:  6 Lektionen
 
 
@@ -80,18 +80,15 @@ Ich habe mich dazu entschiede, die Grundanforderungen zu machen, weil ich noch k
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  22.09.2022     |    funktioniert      |   Janick     |
+| 2.1  |   22.09.2022    |     funktioniert     |   Janick     |
+| 3.1  |   22.09.2022    |     funktioniert     |   Janick     |
+| 4.1  |   22.09.2022    |     funktioniert     |   Janick     |
+| 5.1  |   22.09.2022    |     funktioniert     |   Janick     |
+| 6.1  |   22.09.2022    |     funktioniert     |   Janick     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Es funktioniert alles einwandfrei.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
