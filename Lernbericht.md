@@ -23,7 +23,7 @@ geben. Um das zu verhindern, schrieb ich ein "catch", der den Fehler abfängt un
 
 <img width="612" alt="2022-09-22" src="https://user-images.githubusercontent.com/111045598/191694447-996302cc-95a6-424c-abff-853e4857c248.png">
 
-![image](https://user-images.githubusercontent.com/111045598/191702388-d62639e8-c515-4b48-b0af-1ec96b1c4c4e.png)
+![Schleife.gif](https://media.giphy.com/media/j7exkYZYdNOXjFzqfW/giphy.gif)
 
 
 
